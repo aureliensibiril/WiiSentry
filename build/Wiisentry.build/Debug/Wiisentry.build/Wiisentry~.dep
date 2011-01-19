@@ -1,0 +1,11 @@
+363d11437450be56c0d8ba9a1f3f496a a535f405309810f0d1e5883f0c00b656 ffffffffffffffffffffffffffffffff 102 /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app
+30a127e00924d121135d5e09825deb7a 73b1c854d94cca62451d5ec43cbbfd64 ffffffffffffffffffffffffffffffff 16504 /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/MacOS/Wiisentry
+000000004d26fea4000000000002dff4 ea8c646da127c9bd424a8b352114917a ffffffffffffffffffffffffffffffff 35487 /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj/MainMenu.nib
+000000004d26f98e000000000000002d 9fa19a9a051f6b82d4d2316280cf11d7 ffffffffffffffffffffffffffffffff 92 /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 b276494c484789b9166d37b546b96699 ffffffffffffffffffffffffffffffff 8 /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/PkgInfo
+00000000000000000000000000000000 b276494c484789b9166d37b546b96699 ffffffffffffffffffffffffffffffff 892 /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Info.plist
+6b9aee0c4466a032a919ea9cdf306442 297a60bebd624cd35159bd143245ffaf ffffffffffffffffffffffffffffffff 21400 /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/AppController.o
+6b9aee0c051a098fa919ea9cdf305343 c9eb5eb8a5b5144484d81c3b9703f206 ffffffffffffffffffffffffffffffff 21128 /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/WiisentryAppDelegate.o
+6b9aee0c483cf001a919ea9cdf3053fa bbaaf7ea5378b2696fc515baf8292a72 ffffffffffffffffffffffffffffffff 4968 /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/main.o
+000000000de253e60000000000000170 6b9aee0c483cf001a919ea9cdf305381 ffffffffffffffffffffffffffffffff 54306576 /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch.gch
+ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff ffffffffffffffffffffffffffffffff 0 /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-bgkxjspdgtllpucfmyzzbbplrccs/Wiisentry_Prefix.pch.gch
