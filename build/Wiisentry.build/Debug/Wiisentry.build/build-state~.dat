@@ -1,0 +1,277 @@
+TWiisentry
+v7
+r0
+t316094002.445376
+cCheck dependencies
+cProcessInfoPlistFile /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Info.plist Wiisentry-Info.plist
+cCopyStringsFile /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/trivol/code/Wiisentry/English.lproj/MainMenu.xib
+cProcessPCH /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch.gch Wiisentry_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/main.o /Users/trivol/code/Wiisentry/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/WiisentryAppDelegate.o /Users/trivol/code/Wiisentry/WiisentryAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/AppController.o /Users/trivol/code/Wiisentry/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/MacOS/Wiisentry normal x86_64
+cTouch /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CF2B7BF00000000000000EE
+t1290975167
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDevice.h
+c000000004C9EFBEC000000000000BBB2
+t1285487596
+s48050
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothDeviceInquiry.h
+c000000004C9EFBEC0000000000003320
+t1285487596
+s13088
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/IOBluetooth.framework/Headers/objc/IOBluetoothL2CAPChannel.h
+c000000004C9EFBEC0000000000004826
+t1285487596
+s18470
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/trivol/code/Wiisentry/AppController.h
+c000000004D26FE060000000000000167
+t1294401030
+s359
+i<Cocoa/Cocoa.h>
+i<WiiRemote/WiiRemote.h>
+i<WiiRemote/WiiRemoteDiscovery.h>
+
+N/Users/trivol/code/Wiisentry/AppController.m
+c000000004D26FE8800000000000007B8
+t1294401160
+s1976
+i"AppController.h"
+
+N/Users/trivol/code/Wiisentry/English.lproj/InfoPlist.strings
+c000000004D26F98E000000000000002D
+t1294399886
+s45
+
+N/Users/trivol/code/Wiisentry/English.lproj/MainMenu.xib
+c000000004D26FEA4000000000002DFF4
+t1294401188
+s188404
+
+N/Users/trivol/code/Wiisentry/WiiRemote.framework/Headers/Mii.h
+c000000004D26F8B700000000000014E6
+t1294399671
+s5350
+
+N/Users/trivol/code/Wiisentry/WiiRemote.framework/Headers/WiiRemote.h
+c000000004D26F8B70000000000001A99
+t1294399671
+s6809
+i"Mii.h"
+i<Cocoa/Cocoa.h>
+i<IOBluetooth/objc/IOBluetoothDevice.h>
+i<IOBluetooth/objc/IOBluetoothL2CAPChannel.h>
+
+N/Users/trivol/code/Wiisentry/WiiRemote.framework/Headers/WiiRemoteDiscovery.h
+c000000004D26F8B7000000000000034C
+t1294399671
+s844
+i<Cocoa/Cocoa.h>
+i<IOBluetooth/objc/IOBluetoothDeviceInquiry.h>
+i"WiiRemote.h"
+
+N/Users/trivol/code/Wiisentry/WiiRemote.framework/WiiRemote
+c000000004D26F8BF0000000000020D54
+t1294399679
+s134484
+
+N/Users/trivol/code/Wiisentry/WiisentryAppDelegate.h
+c000000004D26F98E0000000000000130
+t1294399886
+s304
+i<Cocoa/Cocoa.h>
+
+N/Users/trivol/code/Wiisentry/WiisentryAppDelegate.m
+c000000004D26F98E0000000000000167
+t1294399886
+s359
+i"WiisentryAppDelegate.h"
+
+N/Users/trivol/code/Wiisentry/Wiisentry_Prefix.pch
+c000000004D26F98E0000000000000095
+t1294399886
+s149
+i<Cocoa/Cocoa.h>
+
+N/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app
+t1294401202
+s102
+
+N/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Info.plist
+t1294401196
+s892
+
+N/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/MacOS/Wiisentry
+t1294401202
+s16504
+
+N/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/PkgInfo
+t1294401196
+s8
+
+N/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1294401196
+s92
+
+N/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj/MainMenu.nib
+t1294401196
+s35487
+
+N/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/AppController.o
+t1294401201
+s21400
+
+N/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/Wiisentry.LinkFileList
+c000000004D26FEAC000000000000014B
+t1294401196
+s331
+
+N/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/WiisentryAppDelegate.o
+t1294401201
+s21128
+
+N/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/main.o
+t1294401201
+s4968
+
+N/Users/trivol/code/Wiisentry/main.m
+c000000004D26F98E00000000000000EE
+t1294399886
+s238
+i<Cocoa/Cocoa.h>
+
+N/var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-bgkxjspdgtllpucfmyzzbbplrccs/Wiisentry_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch.gch
+t1294401201
+s54306576
+
+NWiisentry-Info.plist
+c000000004D26F98E00000000000003EA
+t1294399886
+s1002
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316093996#316093996#0(0"0(0#1#0"8612628704#0"0#
+
+CCompileC build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/AppController.o /Users/trivol/code/Wiisentry/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316094001.677116
+e316094001.871696
+r1
+xCompileC
+xbuild/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/AppController.o
+x/Users/trivol/code/Wiisentry/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@52"Compile /Users/trivol/code/Wiisentry/AppController.m316094001#316094001#0(0"0(0#0#44"/Users/trivol/code/Wiisentry/AppController.m8618360224#1429"    cd /Users/trivol/code/Wiisentry    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-generated-files.hmap -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-own-target-headers.hmap -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-all-target-headers.hmap -iquote /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-project-headers.hmap -F/Users/trivol/code/Wiisentry/build/Debug -F/Users/trivol/code/Wiisentry -I/Users/trivol/code/Wiisentry/build/Debug/include -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/DerivedSources/x86_64 -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/DerivedSources -include /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch -c /Users/trivol/code/Wiisentry/AppController.m -o /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/AppController.o0#
+
+CCompileC build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/WiisentryAppDelegate.o /Users/trivol/code/Wiisentry/WiisentryAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316094001.334543
+e316094001.677030
+r1
+xCompileC
+xbuild/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/WiisentryAppDelegate.o
+x/Users/trivol/code/Wiisentry/WiisentryAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/trivol/code/Wiisentry/WiisentryAppDelegate.m316094001#316094001#0(0"0(0#0#51"/Users/trivol/code/Wiisentry/WiisentryAppDelegate.m8620177376#1443"    cd /Users/trivol/code/Wiisentry    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-generated-files.hmap -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-own-target-headers.hmap -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-all-target-headers.hmap -iquote /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-project-headers.hmap -F/Users/trivol/code/Wiisentry/build/Debug -F/Users/trivol/code/Wiisentry -I/Users/trivol/code/Wiisentry/build/Debug/include -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/DerivedSources/x86_64 -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/DerivedSources -include /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch -c /Users/trivol/code/Wiisentry/WiisentryAppDelegate.m -o /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/WiisentryAppDelegate.o0#
+
+CCompileC build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/main.o /Users/trivol/code/Wiisentry/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316094001.333536
+e316094001.676872
+r1
+xCompileC
+xbuild/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/main.o
+x/Users/trivol/code/Wiisentry/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/trivol/code/Wiisentry/main.m316094001#316094001#0(0"0(0#0#35"/Users/trivol/code/Wiisentry/main.m8622715744#1411"    cd /Users/trivol/code/Wiisentry    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-generated-files.hmap -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-own-target-headers.hmap -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-all-target-headers.hmap -iquote /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-project-headers.hmap -F/Users/trivol/code/Wiisentry/build/Debug -F/Users/trivol/code/Wiisentry -I/Users/trivol/code/Wiisentry/build/Debug/include -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/DerivedSources/x86_64 -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/DerivedSources -include /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch -c /Users/trivol/code/Wiisentry/main.m -o /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/trivol/code/Wiisentry/English.lproj/MainMenu.xib
+s316093996.288119
+e316093996.962106
+r1
+xCompileXIB
+x/Users/trivol/code/Wiisentry/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib316093996#316093996#0(0"0(0#0#55"/Users/trivol/code/Wiisentry/English.lproj/MainMenu.xib8612599168#336"    cd /Users/trivol/code/Wiisentry    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj/MainMenu.nib /Users/trivol/code/Wiisentry/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s316093996.235246
+e316093996.344937
+r1
+xCopyStringsFile
+x/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings316093996#316093996#0(0"0(0#0#60"/Users/trivol/code/Wiisentry/English.lproj/InfoPlist.strings8611789248#347"    cd /Users/trivol/code/Wiisentry    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Resources/English.lproj0#
+
+CLd /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/MacOS/Wiisentry normal x86_64
+s316094001.871790
+e316094002.442401
+r1
+xLd
+x/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/MacOS/Wiisentry
+xnormal
+xx86_64
+lSLF07#2@84"Link /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/MacOS/Wiisentry316094001#316094002#0(0"0(0#0#0"8624316064#554"    cd /Users/trivol/code/Wiisentry    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/trivol/code/Wiisentry/build/Debug -F/Users/trivol/code/Wiisentry/build/Debug -F/Users/trivol/code/Wiisentry -filelist /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Objects-normal/x86_64/Wiisentry.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework WiiRemote -o /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/MacOS/Wiisentry0#
+
+CProcessInfoPlistFile /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Info.plist Wiisentry-Info.plist
+s316093996.224158
+e316093996.233913
+r1
+xProcessInfoPlistFile
+x/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Info.plist
+xWiisentry-Info.plist
+lSLF07#2@28"Process Wiisentry-Info.plist316093996#316093996#0(0"0(0#0#49"/Users/trivol/code/Wiisentry/Wiisentry-Info.plist8618085440#286"    cd /Users/trivol/code/Wiisentry    builtin-infoPlistUtility Wiisentry-Info.plist -genpkginfo /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-bgkxjspdgtllpucfmyzzbbplrccs/Wiisentry_Prefix.pch.gch Wiisentry_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch.gch Wiisentry_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s316093996.962276
+e316094001.333270
+r1
+xProcessPCH
+x/var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch.gch
+xWiisentry_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Wiisentry_Prefix.pch316093996#316094001#0(0"0(0#0#49"/Users/trivol/code/Wiisentry/Wiisentry_Prefix.pch8622889248#1325"    cd /Users/trivol/code/Wiisentry    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-generated-files.hmap -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-own-target-headers.hmap -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-all-target-headers.hmap -iquote /Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/Wiisentry-project-headers.hmap -F/Users/trivol/code/Wiisentry/build/Debug -F/Users/trivol/code/Wiisentry -I/Users/trivol/code/Wiisentry/build/Debug/include -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/DerivedSources/x86_64 -I/Users/trivol/code/Wiisentry/build/Wiisentry.build/Debug/Wiisentry.build/DerivedSources -c /Users/trivol/code/Wiisentry/Wiisentry_Prefix.pch -o /var/folders/pa/parepP25H08yXNj4qMmRN++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Wiisentry_Prefix-emamwmkrcfmcpkghvilrkqzjigrg/Wiisentry_Prefix.pch.gch0#
+
+CTouch /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app
+s316094002.442487
+e316094002.445339
+r1
+xTouch
+x/Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app
+lSLF07#2@60"Touch /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app316094002#316094002#0(0"0(0#0#0"8622661696#113"    cd /Users/trivol/code/Wiisentry    /usr/bin/touch -c /Users/trivol/code/Wiisentry/build/Debug/Wiisentry.app0#
+

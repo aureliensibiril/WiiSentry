@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Wiisentry' target in the 'Wiisentry' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
